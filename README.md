@@ -17,3 +17,8 @@ Wallet Integration: Seamless wallet connection using MetaMask for authentication
 Claim Rewards: Users can claim their accumulated rewards securely through the platform.
 Fetch Contributions: Allows users to retrieve all submitted contributions for review and tracking.
 Robust Smart Contracts: Secure, gas-efficient contracts ensuring reliable operations and reward calculations.
+
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/8eb8a14b-3b8a-457b-8dbd-eb3b131e848b)
+
