@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Incentives-for-Deep-Diving-eduChain/static/css/main.24190b76.css",
-    "main.js": "/Incentives-for-Deep-Diving-eduChain/static/js/main.6c115025.js",
+    "main.css": "/Incentives-for-Deep-Diving-eduChain/static/css/main.5f55fcb8.css",
+    "main.js": "/Incentives-for-Deep-Diving-eduChain/static/js/main.78cb0c3e.js",
     "static/js/488.53683f56.chunk.js": "/Incentives-for-Deep-Diving-eduChain/static/js/488.53683f56.chunk.js",
     "index.html": "/Incentives-for-Deep-Diving-eduChain/index.html",
-    "main.24190b76.css.map": "/Incentives-for-Deep-Diving-eduChain/static/css/main.24190b76.css.map",
-    "main.6c115025.js.map": "/Incentives-for-Deep-Diving-eduChain/static/js/main.6c115025.js.map",
+    "main.5f55fcb8.css.map": "/Incentives-for-Deep-Diving-eduChain/static/css/main.5f55fcb8.css.map",
+    "main.78cb0c3e.js.map": "/Incentives-for-Deep-Diving-eduChain/static/js/main.78cb0c3e.js.map",
     "488.53683f56.chunk.js.map": "/Incentives-for-Deep-Diving-eduChain/static/js/488.53683f56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.24190b76.css",
-    "static/js/main.6c115025.js"
+    "static/css/main.5f55fcb8.css",
+    "static/js/main.78cb0c3e.js"
   ]
 }
