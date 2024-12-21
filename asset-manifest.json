@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bussniess_simulation_with_blockchain_rewards/static/css/main.24190b76.css",
+    "main.js": "/bussniess_simulation_with_blockchain_rewards/static/js/main.5789ff1a.js",
+    "static/js/488.53683f56.chunk.js": "/bussniess_simulation_with_blockchain_rewards/static/js/488.53683f56.chunk.js",
+    "index.html": "/bussniess_simulation_with_blockchain_rewards/index.html",
+    "main.24190b76.css.map": "/bussniess_simulation_with_blockchain_rewards/static/css/main.24190b76.css.map",
+    "main.5789ff1a.js.map": "/bussniess_simulation_with_blockchain_rewards/static/js/main.5789ff1a.js.map",
+    "488.53683f56.chunk.js.map": "/bussniess_simulation_with_blockchain_rewards/static/js/488.53683f56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24190b76.css",
+    "static/js/main.5789ff1a.js"
+  ]
+}
