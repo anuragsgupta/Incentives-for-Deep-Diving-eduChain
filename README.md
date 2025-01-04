@@ -22,4 +22,11 @@ The vision of this project is to foster a collaborative environment where indivi
 
 ![image](https://github.com/user-attachments/assets/8eb8a14b-3b8a-457b-8dbd-eb3b131e848b)
 
+## Video Demo 
+
+
+
+https://github.com/user-attachments/assets/2dc96c07-2a0e-42ca-bb7e-7a686d50fc25
+
+
 
